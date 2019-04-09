@@ -1,37 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://deobm.github.io/about/</loc>
-    <lastmod>2019-04-10T02:08:40+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://deobm.github.io/posts/about-project-topics/</loc>
-    <lastmod>2019-03-06T00:04:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://deobm.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://deobm.github.io/posts/</loc>
-    <lastmod>2019-03-06T00:04:30+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://deobm.github.io/</loc>
-    <lastmod>2019-04-10T02:08:40+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://deobm.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://deobm.github.io/about/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://deobm.github.io/post/sitemap.xml</loc>
+		
+	   	<lastmod>2019-04-10T02:08:40+09:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://deobm.github.io/about/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="post"
+                href="https://deobm.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="about"
+                href="https://deobm.github.io/about/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://deobm.github.io/about/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="post"
+                href="https://deobm.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="about"
+                href="https://deobm.github.io/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://deobm.github.io/about/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="post"
+                href="https://deobm.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="about"
+                href="https://deobm.github.io/about/tags/"
+                />
+  </url>
+  
+</urlset>
