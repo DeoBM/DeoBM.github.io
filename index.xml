@@ -6,10 +6,19 @@
     <description>Recent content on Sauve Qui Peut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 06 Mar 2019 00:04:30 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2019 02:08:40 +0900</lastBuildDate>
     
 	<atom:link href="https://deobm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About the Author</title>
+      <link>https://deobm.github.io/about/</link>
+      <pubDate>Wed, 10 Apr 2019 02:08:40 +0900</pubDate>
+      
+      <guid>https://deobm.github.io/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>프로젝트의 주제 정하기</title>
