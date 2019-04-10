@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Sauve Qui Peut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 06 Mar 2019 04:02:17 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2019 23:41:33 +0900</lastBuildDate>
     
 	<atom:link href="https://deobm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>스토리의 큰 틀</title>
+      <link>https://deobm.github.io/posts/large-frame-of-the-story/</link>
+      <pubDate>Thu, 07 Mar 2019 23:41:33 +0900</pubDate>
+      
+      <guid>https://deobm.github.io/posts/large-frame-of-the-story/</guid>
+      <description>언급된 스토리 후보들 프로젝트의 주제가 &amp;lsquo;게임에 대한 부정적인 사회인식을 바꿀 수 있는 스토리 기반의 게임 어플리케이션&amp;rsquo;을 만드는 것으로 정해졌기 때문에 이제는 게임 스토리의 큰 틀을 잡는 것이 가장 중요해졌습니다. 각자가 많이 생각하고 고민한 끝에 다양한 의견이 나왔고 그 결과는 크게 다음과 같았습니다.
+ 전래동화, 고전문학 등 기존의 잘 알려진 이야기 기존의 잘 알려진 이야기에서 더 나아가 다양한 결말을 맺을 수 있도록 한 패러디 실화를 바탕으로 이야기  무엇을 선택해야 할 지 막막한 가운데 우리가 게임을 만드려고 하는 이유에 대해 떠올렸고 다음과 같은 질문을 스스로에게 하며 선택지를 좁혀가기 시작했습니다.</description>
+    </item>
     
     <item>
       <title>게임의 가능성</title>
